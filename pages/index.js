@@ -3,7 +3,7 @@ import Head from 'next/head'
 import Hero from '../components/Hero'
 import Slider from '../components/Slider'
 import { SliderData } from '../components/SliderData'
-import Example from '../components/Example'
+
 
 
 function index() {
@@ -16,7 +16,7 @@ function index() {
       </Head>
         <Hero heading='Captur Photography' message='I capture moments in nature and keep them alive'/>
         <Slider slides={SliderData} />
-        <Example/>
+      
   
     </div>
   )
