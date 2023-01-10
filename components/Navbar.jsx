@@ -39,7 +39,7 @@ function Navbar() {
             <Link href="/">Home</Link>
           </li>
           <li className="p-4">
-            <Link href="/#gallery">Gallery</Link>
+            <Link href="/">Gallery</Link>
           </li>
           <li className="p-4">
             <Link href="/portfolio">Work</Link>

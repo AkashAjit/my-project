@@ -7,6 +7,7 @@ import Slider from '../components/Slider'
 
 
 
+
 function index() {
   return (
     <div>
@@ -17,6 +18,8 @@ function index() {
       </Head>
         <Hero heading='Captur Photography' message='I capture moments in nature and keep them alive'/>
         <Slider/>
+
+       
       
   
     </div>

@@ -1,5 +1,4 @@
 import Navbar from "../components/Navbar";
-import Slider from "../components/Slider";
 import "../styles/globals.css";
 import react,{useEffect} from "react";
 
