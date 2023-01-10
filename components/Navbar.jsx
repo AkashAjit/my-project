@@ -20,7 +20,7 @@ function Navbar() {
         setTextColor("white");
       }
     };
-    window.addEventListener('scroll', changeColor);
+    window.addEventListener("scroll", changeColor);
   }, []);
 
   return (
